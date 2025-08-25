@@ -15,28 +15,14 @@
 
 ## 🚀 Featured Projects
 - 🛣️ **[Traffic Accident Severity Prediction](#)** – Predict accident severity using ML models  
-- 📂 **Other Projects** 
----
-
-## 📊 GitHub Stats (Dynamic)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uppiii&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppiii&layout=compact&theme=tokyonight" height="160"/>
-</p>
+- 📂 **Other Projects** – *(More repos will be added soon)*  
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uppiii&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## ⏱️ Weekly Coding Activity
-<!-- Dynamically generated from Wakatime -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=upendra" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uppiii&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppiii&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
@@ -44,13 +30,4 @@
 ## 🐍 Contribution Graph
 <p align="center">
   <img src="https://github.com/uppiii/uppiii/blob/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 📌 Badges
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uppiii&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/uppiii?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/uppiii?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars" />
 </p>
