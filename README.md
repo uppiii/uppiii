@@ -13,13 +13,6 @@
 
 ---
 
-## 🚀 Featured Projects
-- 🛣️ **[Traffic Accident Severity Prediction](#)** – Predict accident severity using ML models  
-- 📂 **Other Projects** – *(More repos will be added soon)*  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uppiii&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppiii&layout=compact&theme=radical" alt="Top Languages" height="160"/>
