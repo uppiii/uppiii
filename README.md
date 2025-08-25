@@ -38,9 +38,9 @@
 
 ---
 
-<!-- Snake Graph -->
 ### 🐍 Contribution Snake
 ![snake gif](https://github.com/uppiii/uppiii/blob/output/snake.svg)
+
 
 ---
 
