@@ -4,63 +4,49 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/uppiii">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&center=true&vCenter=true&width=440&lines=AI+%26+ML+Explorer;Data+Science+Learner;Always+Learning+New+Tech!">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Data+Science+Learner;Always+learning+new+things!">
 </p>
 
 ---
 
-<!-- Badges -->
+<!-- About Section -->
+### 🌟 About Me
+- 🎓 Passionate about AI, ML, and Data Science  
+- 💻 Exploring deep learning and data-driven projects  
+- 📫 Reach me at **challaupendra2003@gmail.com**
+
+---
+
+<!-- Projects Section -->
+### 🚀 Featured Projects
+- 🛣️ **Traffic Accident Severity Prediction** – Predict accident severity using ML models  
+- 📊 **Other Projects** – (Add more repos here you want to highlight)
+
+---
+
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uppiii&label=Profile%20Views&color=0e75b6&style=flat" alt="uppiii" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uppiii&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uppiii&theme=radical" alt="GitHub streak stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppiii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on **Machine Learning & Data Science projects**
-- 🌱 Learning **Deep Learning, Flask, and AI tools**
-- 💬 Ask me about **Python | ML | Data Analysis**
-- 📫 Reach me: **challaupendra2003@gmail.com**
+<!-- Snake Graph -->
+### 🐍 Contribution Snake
+![snake gif](https://github.com/uppiii/uppiii/blob/output/snake.svg)
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask,html,css,js,git,github,mysql" />
-</p>
-
----
-
-## 📌 Featured Projects
-- 🍽️ [Restaurant Recommendation](https://github.com/uppiii/Restuarent_Recommendation)  
-- 🐍 [Cartoon Snake Game](https://github.com/uppiii/-Cartoon-Snake-Game)  
-- 🔑 [Password Generator](https://github.com/uppiii/PASSWORD_GENRATOR)  
-- 🌦️ [Weather Application](https://github.com/uppiii/WEATHER_APPLICATION_USING_HTML_CSS_JS)  
-- 🧾 [Sales Data Analysis](https://github.com/uppiii/Sales-Data-Analysis)  
-- 🛒 [Shopping Cart](https://github.com/uppiii/shopping_cart)  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uppiii&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppiii&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/uppiii/uppiii/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-<p align="center">
-  <a href="mailto:challaupendra2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://github.com/uppiii"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<!-- Connect Section -->
+### 🤝 Connect with Me
+<p align="left">
+  <a href="mailto:challaupendra2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/uppiii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
