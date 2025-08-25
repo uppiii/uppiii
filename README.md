@@ -1,61 +1,56 @@
-<!-- Title + Typing Header -->
-<h1 align="center">Hi 👋, I'm Upendra Challa</h1>
-<h3 align="center">AI/ML Enthusiast | Data Science Learner | FrontEnd Devoloper</h3>
+<h1 align="center">👋 Hi, I'm Upendra Challa</h1>
 
-<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=AI%2FML+Enthusiast;Data+Science+Learner;Always+learning+new+things!">
+  🚀 AI/ML Enthusiast | 📊 Data Science Learner | 💻 Frontend Developer
 </p>
 
 ---
 
-<!-- About Section -->
-### 🌟 About Me
-- 🎓 Passionate about AI, ML, and Data Science, FrontEnd 
-- 💻 Exploring deep learning and data-driven projects  
-- 📫 Reach me at **challaupendra2003@gmail.com**
+## 🌟 About Me
+- 🎯 Passionate about **AI, ML, and Data Science**
+- 💡 Exploring **deep learning** and **data-driven projects**
+- 📫 Reach me at: **[challaupendra2003@gmail.com](mailto:challaupendra2003@gmail.com)**  
 
 ---
 
-<!-- Projects Section -->
-### 🚀 Featured Projects
-- 🛣️ **Traffic Accident Severity Prediction** – Predict accident severity using ML models  
-- 📊 **Other Projects** – (Add more repos here you want to highlight)
-
+## 🚀 Featured Projects
+- 🛣️ **[Traffic Accident Severity Prediction](#)** – Predict accident severity using ML models  
+- 📂 **Other Projects** 
 ---
 
-<!-- GitHub Stats Section -->
-### 📊 GitHub Overview
+## 📊 GitHub Stats (Dynamic)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uppiii&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uppiii&theme=radical" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppiii&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uppiii&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppiii&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-<!-- Contribution Graph -->
-### 📈 Contribution Graph
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uppiii&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=uppiii&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-<!-- Snake Section -->
-### 🐍 Contribution Snake
+## ⏱️ Weekly Coding Activity
+<!-- Dynamically generated from Wakatime -->
 <p align="center">
-  <img src="https://github.com/uppiii/uppiii/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=upendra" height="300"/>
 </p>
 
 ---
 
-<!-- Connect Section -->
-### 🤝 Connect with Me
-<p align="left">
-  <a href="mailto:challaupendra2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/uppiii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/uppiii/uppiii/blob/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 📌 Badges
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uppiii&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/uppiii?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/uppiii?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars" />
 </p>
