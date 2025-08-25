@@ -1,6 +1,6 @@
 <!-- Title + Typing Header -->
 <h1 align="center">Hi 👋, I'm Upendra Challa</h1>
-<h3 align="center">AI/ML Enthusiast | Data Science Learner</h3>
+<h3 align="center">AI/ML Enthusiast | Data Science Learner | FrontEnd Devoloper</h3>
 
 <!-- Typing animation -->
 <p align="center">
@@ -11,7 +11,7 @@
 
 <!-- About Section -->
 ### 🌟 About Me
-- 🎓 Passionate about AI, ML, and Data Science  
+- 🎓 Passionate about AI, ML, and Data Science, FrontEnd 
 - 💻 Exploring deep learning and data-driven projects  
 - 📫 Reach me at **challaupendra2003@gmail.com**
 
@@ -24,23 +24,32 @@
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
+<!-- GitHub Stats Section -->
+### 📊 GitHub Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uppiii&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uppiii&theme=radical" alt="GitHub streak stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uppiii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/uppiii/uppiii/blob/output/snake.svg)
+<!-- Contribution Graph -->
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uppiii&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
 
+---
+
+<!-- Snake Section -->
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/uppiii/uppiii/blob/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
